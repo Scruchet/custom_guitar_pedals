@@ -1,0 +1,10 @@
+# Kicad files
+*-cache.lib
+*-cache.dcm
+*-rescue.lib
+*-rescue.dcm
+.fp-info-cache
+*.bak
+*.bck
+*~
+*.tmp
