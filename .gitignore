@@ -8,4 +8,4 @@
 *.bck
 *~
 *.tmp
-/gerber
+gerber/
