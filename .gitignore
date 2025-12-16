@@ -8,4 +8,5 @@
 *.bck
 *~
 *.tmp
-gerber/
+*gerber/
+*.zip
